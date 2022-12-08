@@ -1,5 +1,5 @@
-import Landing from '../Components/Landing'
 import Header from '../Components/Layouts/Header'
+import Landing from '../Components/Landing'
 import Navbar from '../Components/Layouts/Navbar'
 
 
