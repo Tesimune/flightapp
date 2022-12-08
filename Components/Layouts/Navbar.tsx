@@ -1,11 +1,11 @@
-import Head from 'next/head'
+import React from 'react'
 import Image from 'next/image'
 
 export default function Navbar() {
   return (
     <div className='bg-slate-900 text-white p-3 border-b-2 border-white'>
       <nav className='flex justify-between'>
-        <a href='#' className='flex gap-2 item text-xl'>
+        <a href='#/' className='flex gap-2 item text-xl'>
           <Image src='/images/logo.png' alt='logo' height={40} width={40} />
           <span className='flex items-center'>FlightApp</span>
         </a>

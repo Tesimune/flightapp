@@ -1,4 +1,3 @@
-import Image from "next/image"
 import CheckIn from "./Flight/CheckIn"
 import Flight from "./Flight/Flight"
 import FlightOpt from "./Flight/FlightOpt"
